@@ -9,12 +9,12 @@ Plan du projet:
 
 2- Caractéristiques de WILDFLY
 
-3- Difficultés de WILDFLY
+3- Historique et Installation de WILDFLY 
 
-4- Historique et Installation de WILDFLY 
+4- Différence entre TOMCAT et WILDFLY 
 
-5- Différence entre TOMCAT et WILDFLY 
+5- Releases
 
-6- Releases
+6- un petit demo sur WILDFLY
 
-7- un petit demo sur WILDFLY
+7- Difficultés rencontrés de WILDFLY
