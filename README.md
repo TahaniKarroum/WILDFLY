@@ -17,4 +17,4 @@ Plan du projet:
 
 6- un petit demo sur WILDFLY
 
-7- Difficultés rencontrés de WILDFLY
+7- Difficultés rencontrés
