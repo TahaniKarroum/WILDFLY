@@ -1,0 +1,4 @@
+com\mycompany\demo\entity\Person.class
+com\mycompany\demo\session\AbstractFacade.class
+com\mycompany\demo\session\PersonFacade.class
+com\mycompany\demo\session\InitBean.class
